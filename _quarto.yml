@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "week9lecture"
+  title: "My Site"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - addingp1.qmd
+      - spring2024courses.qmd
 
 format:
   html:

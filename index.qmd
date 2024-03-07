@@ -3,7 +3,7 @@ title: "Lucky Camargo"
 image: LuckyCamargo.jpg
 resources: Camargo Resume.pdf
 about: 
-  template: trestles
+  template: solana
   image-shape: round
   image-width: 15em
   links: 
@@ -12,7 +12,7 @@ about:
        href: malito:luckycamargo1011@gmail.com
     -  text: GitHub
        icon: github
-       href: https://github.com/lcamar2/
+       href: https://github.com/lcamar2/week9lecture
     -  text: resume
        icon: file-text
        href: Camargo Resume.pdf
