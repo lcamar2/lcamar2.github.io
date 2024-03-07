@@ -9,10 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - addingp1.qmd
 
 format:
   html:
     theme: cosmo
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
     css: styles.css
     toc: true
 

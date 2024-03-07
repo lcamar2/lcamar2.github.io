@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lucky Camargo",
+    "section": "",
+    "text": "The 3 colon set at the beginning and end with a {#ppc} in between allows you to add additional information. You will need to add id: ppc to the index file yaml above to allow you to do the function below\n\n  \n    \n\n    \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     resume\n  \n\n  \n  \n!Think More!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

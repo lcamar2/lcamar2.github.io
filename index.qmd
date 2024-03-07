@@ -1,11 +1,28 @@
 ---
-title: "week9lecture"
+title: "Lucky Camargo"
+image: LuckyCamargo.jpg
+resources: Camargo Resume.pdf
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    -  text: Email
+       icon: envelop
+       href: malito:luckycamargo1011@gmail.com
+    -  text: GitHub
+       icon: github
+       href: https://github.com/lcamar2/
+    -  text: resume
+       icon: file-text
+       href: Camargo Resume.pdf
+  id: ppc
 ---
 
-This is a Quarto website.
+The 3 colon set at the beginning and end with a {#ppc} in between allows you to add additional information. You will need to add id: ppc to the index file yaml above to allow you to do the function below
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#ppc}
 
-```{r}
-1 + 1
-```
+\![Think More!](pic2.png)
+
+:::
