@@ -5,7 +5,7 @@ resources: Camargo Resume.pdf
 about: 
   template: solana
   image-shape: round
-  image-width: 15em
+  image-width: 8em
   links: 
     -  text: Email
        icon: envelop
@@ -15,14 +15,12 @@ about:
        href: https://github.com/lcamar2/week9lecture
     -  text: resume
        icon: file-text
-       href: Camargo Resume.pdf
+       href: https://lcamar2.github.io/github-page/
   id: ppc
 ---
 
-The 3 colon set at the beginning and end with a {#ppc} in between allows you to add additional information. You will need to add id: ppc to the index file yaml above to allow you to do the function below
-
 :::{#ppc}
 
-\![Think More!](pic2.png)
+An urban dweller with an interdiscliplinary background in real estate finance, public education, public health and government
 
 :::
