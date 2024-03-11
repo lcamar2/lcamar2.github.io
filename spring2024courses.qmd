@@ -1,8 +1,25 @@
 ---
-title: "MS Civic Analytics-Spring 2024 Courses"
+title: "MS Analytics Courses"
 ---
 
+## Spring 2024
 -   PA 446 Civic Coding
 -   PA 506 Public Policy Dev
 -   PA 592 Portfolio
 -   PA 470
+
+## Fall 2023
+-   PA 401 Foundation of Public Service
+-   PA 504 Financial Management & Budgeting
+-   PA 528 Program Evaluation
+-   PA 422 Project Management
+
+## Spring 2023
+-   PA 431 Civic Technology
+-   PA 541 Advanced Data Analytics
+-   PA 436 Geographic Information Systems
+
+## Fall 2022
+-   PA 433 Data Management
+-   PA 434 Data Analytics
+-   PA 402 Principles of Data Analysis
