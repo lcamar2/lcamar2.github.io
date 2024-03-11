@@ -3,8 +3,8 @@ title: "Lucky Camargo"
 image: LuckyCamargo.jpg
 resources: Camargo Resume.pdf
 about: 
-  template: trestles
-  image-shape: round
+  template: jolla
+  image-shape: rounded
   image-width: 8em
   links: 
     -  text: Email
