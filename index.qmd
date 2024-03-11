@@ -4,7 +4,7 @@ image: LuckyCamargo.jpg
 resources: Camargo Resume.pdf
 about: 
   template: solana
-  image-shape: rounded
+  image-shape: round
   image-width: 8em
   links: 
     -  text: Email
