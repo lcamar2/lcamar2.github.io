@@ -22,3 +22,5 @@ about:
 ::: {#ppc}
 An urban dweller with an interdisciplinary background in real estate finance, public education, public health and government
 :::
+
+![](pic4.png){fig-align="center"}
