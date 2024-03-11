@@ -3,7 +3,7 @@ title: "Lucky Camargo"
 image: LuckyCamargo.jpg
 resources: Camargo Resume.pdf
 about: 
-  template: jolla
+  template: solana
   image-shape: rounded
   image-width: 8em
   links: 
