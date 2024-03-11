@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Lucky Camargo",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     resume\n  \n\n      \nAn urban dweller with an interdiscliplinary background in real estate finance, public education, public health and government"
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     resume\n  \n\n  \n  \nAn urban dweller with an interdiscliplinary background in real estate finance, public education, public health and government"
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,29 @@
   {
     "objectID": "spring2024courses.html",
     "href": "spring2024courses.html",
-    "title": "MS Civic Analytics-Spring 2024 Courses",
+    "title": "MS Analytics Courses",
     "section": "",
     "text": "PA 446 Civic Coding\nPA 506 Public Policy Dev\nPA 592 Portfolio\nPA 470"
+  },
+  {
+    "objectID": "spring2024courses.html#fall-2023",
+    "href": "spring2024courses.html#fall-2023",
+    "title": "MS Analytics Courses",
+    "section": "Fall 2023",
+    "text": "Fall 2023\n\nPA 401 Foundation of Public Service\nPA 504 Financial Management & Budgeting\nPA 528 Program Evaluation\nPA 422 Project Management"
+  },
+  {
+    "objectID": "spring2024courses.html#spring-2023",
+    "href": "spring2024courses.html#spring-2023",
+    "title": "MS Analytics Courses",
+    "section": "Spring 2023",
+    "text": "Spring 2023\n\nPA 431 Civic Technology\nPA 541 Advanced Data Analytics\nPA 436 Geographic Information Systems"
+  },
+  {
+    "objectID": "spring2024courses.html#fall-2022",
+    "href": "spring2024courses.html#fall-2022",
+    "title": "MS Analytics Courses",
+    "section": "Fall 2022",
+    "text": "Fall 2022\n\nPA 433 Data Management\nPA 434 Data Analytics\nPA 402 Principles of Data Analysis"
   }
 ]

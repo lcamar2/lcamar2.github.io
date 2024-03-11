@@ -19,8 +19,6 @@ about:
   id: ppc
 ---
 
-:::{#ppc}
-
+::: {#ppc}
 An urban dweller with an interdiscliplinary background in real estate finance, public education, public health and government
-
 :::
