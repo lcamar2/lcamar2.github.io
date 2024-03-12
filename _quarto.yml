@@ -9,7 +9,7 @@ website:
         text: Home
       - about.qmd
       - spring2024courses.qmd
-      - Resume.pdf
+      - href: Resume.pdf
 
 format:
   html:
