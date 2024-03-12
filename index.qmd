@@ -9,7 +9,7 @@ about:
   links: 
     -  text: Email
        icon: envelope
-       href: malito:luckycamargo1011@gmail.com
+       href: mailto:luckycamargo1011@gmail.com
     -  text: GitHub
        icon: github
        href: https://github.com/lcamar2/week9lecture
