@@ -16,6 +16,9 @@ about:
     -  text: resume
        icon: file-text
        href: https://lcamar2.github.io/github-page/
+    -  text: Linkedin
+       icon: linkedin
+       href: https://linkedin.com/in/lacourdaire-lucky-camargo/
   id: ppc
 ---
 
