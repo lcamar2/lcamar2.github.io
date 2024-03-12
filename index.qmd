@@ -8,7 +8,7 @@ about:
   image-width: 8em
   links: 
     -  text: Email
-       icon: envelop
+       icon: envelope
        href: malito:luckycamargo1011@gmail.com
     -  text: GitHub
        icon: github
