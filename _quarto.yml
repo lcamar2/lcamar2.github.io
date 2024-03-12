@@ -17,6 +17,7 @@ format:
     fontsize: 1.5rem
     fontcolor: "#757879"
     linkcolor: "#ff33f0"
+    monofont: courier new
     css: styles.css
     toc: true
 
