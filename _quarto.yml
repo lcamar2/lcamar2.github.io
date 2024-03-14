@@ -9,7 +9,6 @@ website:
         text: Home
       - about.qmd
       - spring2024courses.qmd
-      - addigp1.qmd
 
 format:
   html:

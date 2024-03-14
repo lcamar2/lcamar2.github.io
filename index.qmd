@@ -15,7 +15,7 @@ about:
        href: https://github.com/lcamar2/week9lecture
     -  text: resume
        icon: file-text
-       href: https://lcamar2.github.io/github-page/
+       href: Resume.pdf
     -  text: Linkedin
        icon: linkedin
        href: https://linkedin.com/in/lacourdaire-lucky-camargo/
