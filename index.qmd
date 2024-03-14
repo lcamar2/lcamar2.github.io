@@ -1,7 +1,7 @@
 ---
 title: "Lucky Camargo"
 image: LuckyCamargo.jpg
-resources: Camargo Resume.pdf
+resources: Resume.pdf
 about: 
   template: solana
   image-shape: round
