@@ -12,7 +12,7 @@ about:
        href: mailto:luckycamargo1011@gmail.com
     -  text: GitHub
        icon: github
-       href: https://github.com/lcamar2/week9lecture
+       href: https://github.com/lcamar2/luckycamargosite.github.io
     -  text: resume
        icon: file-text
        href: Resume.pdf
