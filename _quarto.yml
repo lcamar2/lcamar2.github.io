@@ -9,7 +9,6 @@ website:
         text: Home
       - about.qmd
       - spring2024courses.qmd
-
 format:
   html:
     theme: Sandstone
