@@ -23,7 +23,7 @@ about:
 ---
 
 ::: {#ppc}
-An urban dweller with an interdisciplinary background in real estate finance, public education, public health and government
+An urban dweller with an eye for civic analysis, and an interdisciplinary background in real estate finance/housing, public education, public health and government
 :::
 
 ![](pic4.png){fig-align="center"}
